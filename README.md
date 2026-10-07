@@ -47,17 +47,6 @@
   </a>
 </p>
 
-### LeetCode Progress
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Problems%20Solved-Track%20Live-orange?style=for-the-badge&logo=leetcode"/>
-
-<img src="https://img.shields.io/badge/Daily%20Submissions-Track%20Live-blue?style=for-the-badge&logo=leetcode"/>
-
-<img src="https://img.shields.io/badge/Contest%20Rating-Track%20Live-yellow?style=for-the-badge&logo=leetcode"/>
-
-</p>
 
 > My goal is to solve problems consistently every day and improve my problem-solving ability rather than just increasing the problem count.
 
@@ -71,17 +60,6 @@
   </a>
 </p>
 
-### Codeforces Progress
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Problems%20Solved-Track%20Live-blue?style=for-the-badge&logo=codeforces"/>
-
-<img src="https://img.shields.io/badge/Contest%20Rating-Track%20Live-green?style=for-the-badge&logo=codeforces"/>
-
-<img src="https://img.shields.io/badge/Contests-Track%20Live-purple?style=for-the-badge&logo=codeforces"/>
-
-</p>
 
 ---
 
