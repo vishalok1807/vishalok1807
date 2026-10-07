@@ -1,31 +1,199 @@
-<h1 align="center">Hey! This is, Alok Kumar Singh</h1>
-<h3 align="center">Aspiring Java developer from India</h3>
+<h1 align="center">Hey! I'm Alok Kumar Singh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalok1807&label=Profile%20views&color=0e75b6&style=flat" alt="vishalok1807" /> </p>
+<h3 align="center">
+  Aspiring Java Backend Developer | DSA Enthusiast | Problem Solver
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalok1807" alt="vishalok1807" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/alokcodes18" target="blank"><img src="https://img.shields.io/twitter/follow/alokcodes18?logo=twitter&style=for-the-badge" alt="alokcodes18" /></a> </p>
-
-- 📫 How to reach me **vishalok1807@gmail.com**
-
-- ⚡ Fun fact **I love to play Cricket.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alokcodes18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alokcodes18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/alok-kumar-singh-7b306a301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alok-kumar-singh-7b306a301" height="30" width="40" /></a>
-<a href="https://instagram.com/a.l.o.k.s.i.n.g.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.l.o.k.s.i.n.g.h" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/alokcodes18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alokcodes18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alokcodes18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokcodes18" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/vishalok1807">
+    <img src="https://komarev.com/ghpvc/?username=vishalok1807&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalok1807&show_icons=true&locale=en&layout=compact" alt="vishalok1807" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalok1807&show_icons=true&locale=en" alt="vishalok1807" /></p>
+- B.Tech Computer Science student from India
+- Currently focused on **Java, Data Structures & Algorithms, and Backend Development**
+- Solving problems on **LeetCode** and **Codeforces**
+- Currently learning **Spring Boot, REST APIs, Databases and Backend Architecture**
+- Interested in building practical projects and improving problem-solving skills
+- I enjoy playing **Cricket** and solving **Chess puzzles**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalok1807&" alt="vishalok1807" /></p>
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/alokcodes18">
+  <img src="https://img.shields.io/badge/LeetCode-alokcodes18-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/alokcodes18">
+  <img src="https://img.shields.io/badge/Codeforces-alokcodes18-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/alokcodes18">
+    <img src="https://leetcard.jacoblin.cool/alokcodes18?theme=dark&font=Baloo&ext=heatmap" width="700"/>
+  </a>
+</p>
+
+### LeetCode Progress
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Problems%20Solved-Track%20Live-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Daily%20Submissions-Track%20Live-blue?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Contest%20Rating-Track%20Live-yellow?style=for-the-badge&logo=leetcode"/>
+
+</p>
+
+> My goal is to solve problems consistently every day and improve my problem-solving ability rather than just increasing the problem count.
+
+---
+
+# Codeforces
+
+<p align="center">
+  <a href="https://codeforces.com/profile/alokcodes18">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=alokcodes18" width="700"/>
+  </a>
+</p>
+
+### Codeforces Progress
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Problems%20Solved-Track%20Live-blue?style=for-the-badge&logo=codeforces"/>
+
+<img src="https://img.shields.io/badge/Contest%20Rating-Track%20Live-green?style=for-the-badge&logo=codeforces"/>
+
+<img src="https://img.shields.io/badge/Contests-Track%20Live-purple?style=for-the-badge&logo=codeforces"/>
+
+</p>
+
+---
+
+# My Daily Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalok1807&theme=github-compact&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalok1807&theme=github-dark-blue&hide_border=true" width="95%"/>
+</p>
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishalok1807&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalok1807&show_icons=true&theme=github_dark&hide_border=true&layout=compact" height="180"/>
+
+</p>
+
+---
+
+# Languages & Tools
+
+### Programming Languages
+
+<p align="left">
+
+<a href="https://www.java.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://www.cprogramming.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+</a>
+
+</p>
+
+### Backend & Databases
+
+<p align="left">
+
+<a href="https://spring.io/projects/spring-boot">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+</a>
+
+</p>
+
+### Web Development
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+</a>
+
+</p>
+
+### Tools & Environment
+
+<p align="left">
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
+
+</p>
+
+---
+
+# Current Focus
+
+```text
+Java
+  └── DSA & Problem Solving
+  └── OOP
+  └── Collections Framework
+
+Java Backend
+  └── Spring Boot
+  └── REST APIs
+  └── SQL / Databases
+  └── Authentication & Security
+  └── Backend Architecture
+
+Competitive Programming
+  └── LeetCode
+  └── Codeforces
+  └── Contest Participation
+
+Development
+  └── Building Real-World Projects
+  └── Git & GitHub
 
