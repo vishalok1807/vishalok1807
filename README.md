@@ -38,31 +38,6 @@
 </p>
 
 ---
-
-# LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/alokcodes18">
-    <img src="https://leetcard.jacoblin.cool/alokcodes18?theme=dark&font=Baloo&ext=heatmap" width="700"/>
-  </a>
-</p>
-
-
-> My goal is to solve problems consistently every day and improve my problem-solving ability rather than just increasing the problem count.
-
----
-
-# Codeforces
-
-<p align="center">
-  <a href="https://codeforces.com/profile/alokcodes18">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=alokcodes18" width="700"/>
-  </a>
-</p>
-
-
----
-
 # My Daily Coding Activity
 
 <p align="center">
